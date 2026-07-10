@@ -1,6 +1,6 @@
-# KARDID Apps official website
+# KARDID Apps Website v2.0
 
-Static website ready for GitHub Pages.
+Static professional website for KARDID educational applications. Ready for GitHub Pages.
 
 Files:
 - index.html
@@ -10,4 +10,4 @@ Files:
 - app-ads.txt
 - styles.css
 - script.js
-- assets/kardid-icon.png
+- assets/
