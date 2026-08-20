@@ -10,3 +10,9 @@ Fast static website for GitHub Pages with:
 - Preserved `app-ads.txt`
 
 Deploy the contents of this folder to the root of `kardidapps.github.io`.
+
+
+## Apps
+- Promotion Points Calculator — available on Google Play
+- Massar Molahadat — Coming Soon
+- DocBatch Pro — Coming Soon
